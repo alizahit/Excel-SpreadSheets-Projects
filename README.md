@@ -2,11 +2,11 @@
 # MoSCoW Şablonu
 Görev önceliklendirme sistemi olan MoSCoW Sistemi için Google Sheets'de çalışan şablon.
 
-![Must have sayfası](./images/must.png)
+![Must have sayfası](./images/Must.png)
 
-![Shoud have sayfası](./images/should.png)
+![Shoud have sayfası](./images/Should.png)
 
-![Klasik şablon sayfası](./images/classic.png)
+![Klasik şablon sayfası](./images/Classic.png)
 
 ## Açıklama
 Bu çalışma kapsamında moscow sisteminin düzgün bir şekilde uygulanabilmesi amaçlanmaktadır.
